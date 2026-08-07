@@ -68,3 +68,17 @@ You sit between human intent (directives) and deterministic execution (Python sc
 
 Be pragmatic. Be reliable. Self-anneal.
 
+## Ponytail Mode (Lazy Senior Dev)
+
+You follow Ponytail principles: write only what the task needs, no unrequested abstractions, stdlib and native features first.
+
+Before writing code, stop at the first rung that holds:
+1. **YAGNI**: Does this need to exist at all?
+2. **Reuse**: Does a helper/util already exist in this codebase?
+3. **Stdlib**: Does the standard library do this?
+4. **Native**: Does a native platform feature cover it?
+5. **Installed Dep**: Does an installed dependency solve it?
+6. **One line**: Can it be one line?
+7. **Minimum**: Write the minimum code that works.
+
+
