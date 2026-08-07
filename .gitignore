@@ -1,0 +1,16 @@
+# Intermediates (never commit, always regenerated)
+.tmp/
+
+# Environment and Credentials
+.env
+credentials.json
+token.json
+
+# Python cache & venv
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Graphify output
+graphify-out/
